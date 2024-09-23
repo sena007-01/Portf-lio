@@ -1,0 +1,119 @@
+body{
+    background-color: rgb(0, 2, 102);
+}
+
+h1{
+text-shadow: black 2px 5px;
+color: aliceblue;
+font-size: 350%;
+position: relative;
+left: 13%;
+top: 35px;
+}
+
+h2{
+text-shadow: black 2px 5px;
+color: aliceblue;
+position: relative;
+top: 120px;
+left: -17%;
+}
+
+#gite{
+    color: #333333;
+}
+#gite:hover{
+    color: aliceblue;
+}
+
+a{
+    color: #9e9191;
+    font-size: 30px;
+    position: relative;
+    top: 15%;
+    
+}
+
+a:hover{
+    color: aliceblue;
+}
+
+#perfil{
+    border-radius: 100px;
+    position: relative;
+    left: 40px;
+    width: 15%;
+    height: 15%;
+    padding: 1em;
+}
+
+
+#one{
+    margin-left: 20px;
+    margin-right: 20px;
+    display: flex;
+    justify-content: space-between;
+    border-radius: 20px;
+    background-color: #181968;
+}
+
+#two{
+    position: relative;
+    left: 500px;
+    top: -300px;
+    text-shadow: black 2px 3px;
+    color: rgb(240, 248, 255);
+    font-size: 30px;
+}
+
+#wpp{
+    width: 30px;
+    height: 30px;
+    position: relative;
+    left: -85%;
+}
+#ig{
+    width: 35px;
+    height: 35px;
+    position: relative;
+    left: -102%;
+    top: 16%;
+}
+#odin{
+    margin-top: 30px;
+    padding: 1em;
+    border-radius: 5px;
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: #181968;;
+    color: #333333;
+    font-size: 30px;
+}
+#proj1{
+    position: relative;
+    margin-left: 20px;
+    margin-right: 20px;
+    -webkit-box-shadow: 9px 7px 5px rgba(50, 50, 50, 0.77);
+    -moz-box-shadow: 9px 7px 5px rgba(50, 50, 50, 0.77);
+    box-shadow: #333333 9px 7px  ;
+    background-color: #9e9191;
+    color: #333333;
+    font-size: 30px;
+    border-radius: 5px;
+}
+#proj2{
+    margin-left: 20px;
+    margin-right: 20px;
+    -webkit-box-shadow: 9px 7px 5px rgba(50, 50, 50, 0.77);
+    -moz-box-shadow: 9px 7px 5px rgba(50, 50, 50, 0.77);
+    box-shadow: #333333 9px 7px  ;
+    background-color: #9e9191;
+    color: #333333;
+    font-size: 30px;
+    border-radius: 5px;
+}
+
+p{
+    margin-left: 1px;
+    margin-right: 1px;
+}
